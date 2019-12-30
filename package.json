@@ -1,7 +1,7 @@
 {
-	"name": "vscode-cleaner",
-	"displayName": "vscode-cleaner",
-	"description": "descripcion",
+	"name": "cleaner",
+	"displayName": "cleaner",
+	"description": "Limpieza de Windows por medio de las aplicaciones CCleaner y BleachBit",
 	"version": "0.0.1",
 	"publisher": "gabrielsule",
 	"author": {
